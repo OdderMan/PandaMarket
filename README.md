@@ -7,4 +7,8 @@ read and werit DB
 aop + annotation
 mybatties plus
 redis 
+mycat
+mysql
+mongodb
+springcloud
 ......
